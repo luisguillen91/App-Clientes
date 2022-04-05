@@ -1,0 +1,43 @@
+
+.arrow{
+width: 12.5px;
+height: 20px;
+margin: 20px;
+margin-bottom: 33px;
+}
+
+.comidas-h5{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.restaurantes-h5{
+
+    margin-left: 20px;
+    margin-bottom: 60px;
+
+
+
+}
+
+.row{
+
+    margin-bottom: 55px;
+}
+
+.row-footer{
+
+    margin-bottom: 5px;
+}
+
+.house{
+
+    float: right;
+    margin-right: 50px;
+}
+
+.cart{
+
+    float: left;
+    margin-left: 30px;
+}
