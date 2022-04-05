@@ -1,0 +1,177 @@
+
+
+.opciones-menu{
+
+    color:#18191F;
+    font-family: 'Inter', sans-serif;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.boton-inicio{
+color: #2E765E;
+background-color:rgba(59, 226, 171, 0.4);
+border-color: rgba(59, 226, 171, 0.4);
+font-family:'Inter', sans-serif;
+border-radius: 6px;
+
+
+}
+
+.boton-registro{
+
+    color: #FFFFFF;
+background-color:#52CC6D;
+border-color: #52CC6D;
+font-family: 'Inter', sans-serif;
+border-radius: 6px;
+}
+
+.boton-inicio:hover{
+    background:darkcyan;
+    
+    }
+
+    .boton-registro:hover{
+
+        background:darkcyan;
+    
+    }
+
+
+.titulo-h1{
+
+
+color:#18191F;
+position: static;
+width: 540px;
+height: 196px;
+
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 65px;
+line-height: 98px;
+}
+
+.Parrafo-1{
+
+
+position: static;
+width: 540px;
+height: 64px;
+left: 0px;
+top: 212px;
+
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+}
+
+
+
+.columna-1{
+
+    margin-top:296px ;
+}
+
+.columna-2{
+
+    margin-top: 154px ;
+}
+
+.titulo-h2{
+
+color:#18191F;
+height: 76px;
+
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 41px;
+line-height: 64px;
+margin-bottom: 48px;
+
+
+}
+.contenido-1{
+
+margin-bottom: 200px;
+}
+
+
+.columna-3{
+
+    margin-top: 114px;
+    margin-bottom: 114px;
+
+}
+
+
+.contenido-2{
+
+margin-bottom: 125px;
+}
+
+.columna-5{
+    margin-top: 70px;
+    margin-bottom: 70px;
+
+
+}
+
+.Restaurantes{
+margin-left: -200px;
+}
+
+.titulo-3-h2{
+    position: static;
+    width: 350px;
+    left: 0px;
+    top: 0px;
+    
+
+    
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 64px;
+
+}
+
+
+.contenido-footer{
+
+background-color: #18191F;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+
+    .logo-oficial{
+
+        width: 50%;
+        margin-right: 200px;
+
+    }
+
+
+}
+
+
