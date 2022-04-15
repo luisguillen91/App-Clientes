@@ -1,0 +1,85 @@
+.titulo {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.columna-menu{
+    margin-bottom: 150px;
+}
+
+.titulo-categorias{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.f1-columna-1{
+background: #FFC278;
+border-radius: 8px;
+margin-right: 10px;
+
+}
+
+.f1-columna-2{
+    background: #3BE2AB;
+    border-radius: 8px;
+    margin-right: 10px;
+    
+    }
+
+    .f1-columna-3{
+        background: #2EC5CE;
+        border-radius: 8px;
+    margin-right: 10px;
+        
+        }
+
+.f2-columna-1{
+background: #FF72D2;
+border-radius: 8px;
+margin-right: 10px;
+            
+}
+
+.f2-columna-2{
+    background: #F39F9F;
+    border-radius: 8px;
+    margin-right: 10px;
+                
+    }
+
+
+.f2-columna-3{
+background: #D9DBE1;
+border-radius: 8px;
+margin-right: 10px;
+                    
+}
+
+.contenido{
+
+margin-bottom: 210px;
+
+}
+
+.cart{
+
+margin-left: 170px;
+}
+
+.row-2 {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    margin: 0;
+    margin-bottom: 16px;
+    margin-left: 15px;
+}
+
+.card-2{
+
+    width: 55%;
+}
+
+.col-4 {
+    width: 30.333333%;
+}
