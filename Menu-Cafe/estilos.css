@@ -1,0 +1,55 @@
+.arrow{
+    width: 12.5px;
+    height: 20px;
+    margin: 20px;
+    margin-bottom: 33px;
+    }
+    
+    .titulo-h5{
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .supermercados{
+
+        margin-left: 20px;
+        margin-bottom: 60px;
+    
+    }
+
+
+    .row{
+
+        margin-bottom: 80px;
+    }
+    
+    .row-footer{
+    
+        margin-bottom: 5px;
+    }
+    
+    .house{
+    
+        float: right;
+        margin-right: 50px;
+    }
+    
+    .cart{
+    
+        float: left;
+        margin-left: 30px;
+    }
+
+    .contenido{
+
+        margin-bottom: 365px;
+    }
+
+    .boton-explorar{
+
+        margin-top: 20px;
+    }
+
+    .descripcion{
+margin-top: 10px;
+    }
