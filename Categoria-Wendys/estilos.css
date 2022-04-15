@@ -1,0 +1,124 @@
+.arrow{
+    width: 12.5px;
+    height: 20px;
+    margin: 20px;
+    margin-bottom: 33px;
+    }
+    
+    .titulo-h5{
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .banano{
+
+        width: 100px;
+        
+    
+    }
+
+    .cont{
+
+        background: #FCFCFC;
+        border: 1px solid #E0E0E0;
+        box-sizing: border-box;
+        border-radius: 16px;
+        width: 140px;
+        height: 143.91px;
+        left: 0px;
+        top: 11.27px;
+        padding: 20px 20px;
+        margin-left: 15px;
+
+    }
+
+    .coca{
+
+        width: 145px;
+    height: 111px;
+    margin-left: -21px;
+    margin-top: -20px;
+    
+    }
+
+    .carnes{
+
+        width: 120px;
+        margin-left: -3px;
+        margin-top: 20px;
+        
+    
+    }
+
+    .chiles{
+
+        width: 110px;
+        margin-left: -5px;
+    }
+
+    .boton-registro{
+
+        background: #E0E0E0;
+        color: black;
+        border-color: #E0E0E0;
+    }
+
+    .menu{
+
+        margin-bottom: 70px;
+        width: 115%;
+    }
+
+    .row{
+
+        margin-left: 0;
+    }
+
+    .col-6 {
+        flex: 0 0 auto;
+        width: 46%;
+        margin-bottom: 30px;
+    }
+
+    .cantidad{
+
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.1px;
+    color: #52CC6D;
+    margin-left: 22px;
+    margin-top: 4px;
+    margin-bottom: 0.3rem;
+
+
+    }
+
+    .descripcion{
+
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 18px;
+        letter-spacing: 0.1px;
+        color: #000000;
+        margin-left: 22px;
+        margin-bottom: 0.5rem;
+
+    }
+
+    .boton-agregar{
+
+        color: #FFFFFF;
+        background-color: #52CC6D;
+        border-color: #52CC6D;
+        font-family: 'Inter', sans-serif;
+        border-radius: 6px;
+        margin-left: 35px;
+
+    }
+
+    .btn-primary:hover {
+        color: #FFFFFF;
+        background-color:#52CC6D;
+        border-color:#52CC6D;
+    }
