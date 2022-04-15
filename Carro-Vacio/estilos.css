@@ -1,0 +1,107 @@
+
+.arrow{
+    width: 12.5px;
+    height: 20px;
+    margin: 20px;
+    margin-bottom: 33px;
+    }
+
+    .titulo-h5{
+        text-align: center;
+        margin-top: 20px;
+        margin-right: 35px;
+    }
+
+    .house{
+
+        float: right;
+        margin-top: 10px;
+    }
+
+
+.Browni{
+
+    margin-left: 5px;
+    margin-right: 0px;
+    height: 200px;
+    margin-bottom: 34px;
+    margin-left: 105px;
+    margin-right: auto;
+}
+
+.cantidad{
+
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 18px;
+    letter-spacing: 0.1px;
+    color: #52CC6D;
+    margin-bottom: 0.3rem;
+    text-align: center;
+    margin-bottom: 10px;
+
+
+    }
+
+    .nombre{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+
+    }
+
+
+    .detalle{
+
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 18px;
+        align-items: center;
+        color: #181725;
+
+
+
+    }
+
+
+    .descripcion{
+        width: 253px;
+        height: 42px;
+        /* left: 63px; */
+        /* top: 475px; */
+        /* font-family: 'Noto Sans'; */
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 21px;
+        /* display: flex; */
+        align-items: center;
+        text-align: center;
+        color: #7C7C7C;
+        margin-left: 50px;
+        margin-bottom: 60px;
+    }
+
+
+
+.boton{
+
+
+color: #FFFFFF;
+background-color: #52CC6D;
+border-color: #52CC6D;
+font-family: 'Inter', sans-serif;
+border-radius: 8px;
+height: 50px;
+width: 341px;
+text-align: center;
+margin-left: -76px;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+margin-bottom: 50px;
+}
